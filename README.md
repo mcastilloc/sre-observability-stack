@@ -83,7 +83,7 @@ sudo firewall-cmd --reload
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/mcastilloc/sre-observability-stack.git](https://github.com/mcastilloc/sre-observability-stack.git)
+git clone https://github.com/mcastilloc/sre-observability-stack.git
 cd sre-observability-stack
 ```
 
