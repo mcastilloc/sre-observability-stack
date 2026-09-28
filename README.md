@@ -134,4 +134,4 @@ Para remover los contenedores y las redes creadas:
 docker compose down
 ```
 
-![alt text](image.png)
+![Golden Dashboard](IMG/GoldenDashboard1.png)
