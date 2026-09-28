@@ -133,3 +133,5 @@ Para remover los contenedores y las redes creadas:
 ```bash
 docker compose down
 ```
+
+![alt text](image.png)
